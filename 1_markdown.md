@@ -25,7 +25,8 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 # This is a comment
 name = ''Mude Student''
 age = 20
-print(f''Hello, my name is {Jelle} and I am {24} years old.'')
+print(f'Hello, my name is {Jelle} and I am {24} years old.'
+)
 ```
 
 
