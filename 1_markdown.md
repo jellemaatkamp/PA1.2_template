@@ -29,5 +29,13 @@ print(f'Hello, my name is {Jelle} and I am {24} years old.'
 )
 ```
 
+| **Language** | **Difficulty**  | **Use Case**  |  **Popularity** |
+| :-: | :-: | :-- | :-: |
+| Python | Beginner | Data Science, Web Dev | ⭐⭐⭐⭐⭐ |
+| JavaScript | Beginner | Web Development | ⭐⭐⭐⭐⭐ |
+| C++ | Advanced | System Programming | ⭐⭐⭐ |
+| R | Intermediate | Statistics, Data Analysis | ⭐⭐⭐ |
+
+
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
